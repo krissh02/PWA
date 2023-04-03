@@ -1,0 +1,28 @@
+{
+    "name": "Service App",
+    "short_name": "Service App",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFe9D2",
+    "theme_color": "#317EFB",
+    "orientation": "portrait-primary",
+    "icons":[
+    {
+        "src": "/image/img.png",
+        "type": "image/png",
+        "sizes": "72x72"
+    },
+    {
+        "src": "/image/img1.png",
+        "type": "image/png",
+        "sizes": "144x144"
+    },
+    {
+        "src": "/image/img2.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+    }
+]
+
+}
